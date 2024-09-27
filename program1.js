@@ -1,5 +1,4 @@
 const getTotalIsles = function (grid) {
-  function numIslands(grid) {
     if (!grid || grid.length === 0) return 0;
 
     const dfs = (grid, i, j) => {
