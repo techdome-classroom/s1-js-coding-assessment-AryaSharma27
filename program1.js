@@ -43,6 +43,6 @@ const map2 = [
 console.log(numIslands(map1));  // Output: 1
 console.log(numIslands(map2));  // Output: 3
 
-};
+
 
 module.exports = getTotalIsles;
