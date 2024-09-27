@@ -40,8 +40,8 @@ const map2 = [
     ["W","W","W","L","L"],
 ];
 
-console.log(numIslands(map1));  // Output: 1
-console.log(numIslands(map2));  // Output: 3
+// console.log(numIslands(map1));  // Output: 1
+// console.log(numIslands(map2));  // Output: 3
 
 
 
