@@ -26,10 +26,6 @@
     return islandCount;
 };
 
-module.exports = getTotalIsles;
 
-
-
-};
 
 module.exports = getTotalIsles;
